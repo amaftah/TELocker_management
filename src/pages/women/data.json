@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "dani",
+      "teamleader": "Team A",
+      "idlocker": "L1"
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "teamleader": "Team B",
+      "idlocker": "L2"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "teamleader": "Team C",
+      "idlocker": "L3"
+    }
+  ]
